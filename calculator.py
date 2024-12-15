@@ -15,7 +15,7 @@ def divide(x, y):
     return x / y
 
 # This function powers two numbers
-def divide(x, y):
+def power(x, y):
     return x ** y
 
 
